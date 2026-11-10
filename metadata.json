@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pendaftaran & Pemarkahan Mewarna (HSAH)",
+  "description": "Tablet-accessible attendance, blind jury scoring, and admin dashboard for Pertandingan Mewarna Hari Kesedaran Strok & Diabetis HSAH 2026 with Google Sites & Google Sheets integration specification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
